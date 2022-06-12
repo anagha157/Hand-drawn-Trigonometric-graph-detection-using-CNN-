@@ -8,3 +8,5 @@ https://drive.google.com/drive/folders/1cWtaClZQxl2qF1ZZiv-94qhqVwaFLvdH?usp=sha
 Front End folder consist of the HTML and flask file which was used for the frontend application.
 model.h5 file is present in the FrontEnd<model<model.h5
 and in the collab folder
+
+Collab folder consist of the dataset and the collab ipynb file
